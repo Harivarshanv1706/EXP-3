@@ -64,10 +64,12 @@ Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
-![WhatsApp Image 2025-09-26 at 8 39 54 AM](https://github.com/user-attachments/assets/d42b4936-cd88-41fb-b0b6-5922097f7673)
+
+![direct_bee](https://github.com/user-attachments/assets/3fa1bf45-d02d-4df7-81cb-5550fccb10b0)
+
+![cross_bee](https://github.com/user-attachments/assets/ef3d410f-c04f-484b-b7f8-1df189f8c784)
 
 
-![WhatsApp Image 2025-09-26 at 8 39 55 AM](https://github.com/user-attachments/assets/14e31983-487b-42ca-994b-f56bb8dbb4fa)
 
 
 <img width="1920" height="1200" alt="Screenshot 2025-09-24 084008" src="https://github.com/user-attachments/assets/ba2ec9a7-7794-42f7-a496-06884de6b13b" />
