@@ -65,6 +65,11 @@ Cross connection: CIRCUIT DIAGRAM:
 Tabulation:2
 
 
+![WhatsApp Image 2025-11-06 at 20 57 56_c2beb04f](https://github.com/user-attachments/assets/9a848970-fc60-4171-a441-8ac1c9f7a117)
+
+![WhatsApp Image 2025-11-06 at 20 57 57_563134f5](https://github.com/user-attachments/assets/12ee0a00-cd16-4250-a16b-0748ae2ad1b5)
+
+
 
 
 
